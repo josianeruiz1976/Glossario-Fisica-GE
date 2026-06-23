@@ -9,12 +9,7 @@ Este repositório contém um pequeno glossário de conceitos de física (foco em
 
 ## Como visualizar
 
-1. Abra o arquivo `index.html` no seu navegador (duplo clique). Ou para um servidor local rápido:
-
-```bash
-python3 -m http.server 8000
-# e acesse http://localhost:8000
-```
+1. Abra o arquivo `index.html` no seu navegador (duplo clique).
 
 ## Estrutura do repositório
 
@@ -39,7 +34,6 @@ Veja o arquivo `LICENSE` para detalhes sobre a licença.
 
 ## Autor
 
-Projeto desenvolvido pelo Grupo de Estudos.
+Projeto desenvolvido por Josiane no Grupo de Estudos.
 
----
-Se quiser, posso ajustar o texto (tom, nível técnico) ou traduzir para outra língua.
+
