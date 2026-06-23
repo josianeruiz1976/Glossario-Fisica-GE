@@ -1,20 +1,45 @@
-# Glossario-Fisica-GE
+# Glossário de Física — Grupo de Estudos
 
-Este projeto foi desenvolvido utilizando HTML e CSS.
+Este repositório contém um pequeno glossário de conceitos de física (foco em óptica), apresentado como páginas estáticas em HTML e CSS.
 
-## Conceitos abordados
+## Visão geral
 
-### Espelhos
-Os espelhos são superfícies polidas que refletem a luz de forma organizada, permitindo a formação de imagens.
+- Conteúdo: definições e explicações curtas sobre conceitos como espelhos e reflexão da luz.
+- Objetivo: servir como material de apoio para o Grupo de Estudos.
 
-### Reflexão da Luz
-A reflexão da luz ocorre quando a luz atinge uma superfície e retorna ao meio de origem.
+## Como visualizar
 
-## Tecnologias utilizadas
+1. Abra o arquivo `index.html` no seu navegador (duplo clique). Ou para um servidor local rápido:
+
+```bash
+python3 -m http.server 8000
+# e acesse http://localhost:8000
+```
+
+## Estrutura do repositório
+
+- `index.html` — página principal com o glossário
+- `style.css` — estilos do site
+- `LICENSE` — licença do projeto
+- `README.md` — este arquivo
+
+## Tecnologias
 
 - HTML5
 - CSS3
 
+## Como contribuir
+
+- Abra uma issue para sugerir um novo termo ou correção.
+- Envie um pull request com a alteração proposta.
+
+## Licença
+
+Veja o arquivo `LICENSE` para detalhes sobre a licença.
+
 ## Autor
 
-Projeto desenvolvido durante as atividades do Grupo de Estudos.
+Projeto desenvolvido pelo Grupo de Estudos.
+
+---
+Se quiser, posso ajustar o texto (tom, nível técnico) ou traduzir para outra língua.
