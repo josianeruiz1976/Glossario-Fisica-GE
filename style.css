@@ -32,12 +32,12 @@ p {
 }
 
 h3 {
-    color: #0066cc;
+    color: #088bc4;
 }
 
 a {
     display: inline-block;
-    background-color: #0066cc;
+    background-color: #088bc4;
     color: white;
     padding: 10px 15px;
     border-radius: 8px;
@@ -47,4 +47,15 @@ a {
 
 a:hover {
     background-color: #004c99;
+}
+.linha-imagem {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.linha-imagem img {
+    width: 250px;      
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
