@@ -20,14 +20,8 @@ h1 {
     border-bottom: 3px solid #0066cc;
     padding-bottom: 10px;
 }
-h2 {
-    color: #0066cc;
-    text-align: center;
-    border-bottom: 3px solid #0066cc;
-    padding-bottom: 10px;
-}
 p {
-    font-size: 18px;
+    font-family: Verdana, sans-serif;
     line-height: 1.8;
     color: #080808;
     text-align: justify;
