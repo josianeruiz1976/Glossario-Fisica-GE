@@ -1,37 +1,54 @@
 # Glossário de Física
 
-Este projeto reúne conteúdos de Física em uma página web simples e visualmente organizada. O objetivo é apresentar conceitos de forma acessível, com explicações sobre espelhos, reflexão da luz, aplicações da eletrônica e materiais complementares.
+Este repositório contém a versão final do site estático do Glossário de Física, com conteúdo pedagógico organizado e visualmente acessível.
 
 ## Sobre o projeto
 
-O repositório contém uma página estática desenvolvida em HTML e CSS, com textos explicativos, links para conteúdos externos, simulações com Arduino e um vídeo incorporado.
+O projeto apresenta conceitos fundamentais de óptica e eletrônica, exemplos e simulações educativas desenvolvidas para uso em sala de aula ou estudo individual. A implementação é 100% estática (HTML + CSS) com recursos multimídia e instruções para simulações com Arduino.
 
 ## Conteúdo apresentado
 
 - Espelhos e suas características;
 - Reflexão da luz;
-- Simulação de semáforo inteligente com Arduino;
-- Simulação de cruzamento de semáforos com Arduino;
-- Vídeo explicativo sobre Ciência da Luz, Tecnologia e Inclusão.
+- Simulação de semáforo inteligente com Arduino (código e explicação);
+- Simulação de cruzamento de semáforos com Arduino (código e explicação);
+- Vídeo incorporado sobre Ciência da Luz, Tecnologia e Inclusão;
+- Links e materiais complementares para aprofundamento.
 
 ## Estrutura do repositório
 
-- index.html — página principal com o conteúdo do projeto;
-- style.css — estilos e layout da página;
+- index.html — página principal com todo o conteúdo e navegação;
+- style.css — estilos, layout e responsividade da página;
 - LICENSE — licença do projeto;
-- README.md — documentação do repositório.
+- README.md — esta documentação.
 
-## Como visualizar
+## Como visualizar 
 
-1. Abra o arquivo index.html no navegador;
-2. Se preferir, utilize um servidor local simples para visualizar a página com mais praticidade.
+Recomendações rápidas para abrir o site localmente:
 
-## Tecnologias utilizadas
+1. Abrir diretamente: abra `index.html` no navegador;
+2. Usar um servidor simples (recomendado):
+
+Se usar o VS Code, a extensão "Live Server" também abre a página automaticamente.
+
+## Observações sobre as simulações Arduino
+
+Os exemplos de semáforo e cruzamento incluem códigos e instruções no próprio site. Para executar as simulações com hardware, siga os passos e esquemas descritos nas páginas correspondentes e carregue os sketches no Arduino usando a IDE apropriada.
+
+## Tecnologias usadas
 
 - HTML5
 - CSS3
 
+## Licença
+
+Consulte o arquivo `LICENSE` para os termos de uso e redistribuição.
+
 ## Autor
 
 Josiane
+
+
+
+
 
